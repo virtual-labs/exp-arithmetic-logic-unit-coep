@@ -31,19 +31,19 @@ As indicated, the ALU can be used with either active LOW inputs producing active
 <center><img src="images/img3.JPG" title="" /></center>
 
  Notes to the function tables:
-    1. Each bit is shifted to the next more significant position.
-    2. Arithmetic operations expressed in 2s complement notation.
+ 1. Each bit is shifted to the next more significant position.
+ 2. Arithmetic operations expressed in 2s complement notation.
 
-    H = HIGH voltage level \
-    L = LOW voltage level	
+ H = HIGH voltage level\
+ L = LOW voltage level	
 	
-	<center><img src="images/img4.JPG" title="" /></center>	
+<center><img src="images/img4.JPG" title="" /></center>	
 	
-	3. **Logic Diagram**
+3. **Logic Diagram**
 	
-	<center><img src="images/img5.JPG" title="" /></center>	
+<center><img src="images/img5.JPG" title="" /></center>	
 	
-	4. **Examples for arithmetic operations in ALU**
+4. **Examples for arithmetic operations in ALU**
 
 4.1 **Binary Adder-Subtractor**
 
