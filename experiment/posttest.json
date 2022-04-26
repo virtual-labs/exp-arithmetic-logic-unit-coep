@@ -2,37 +2,51 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "All Boolean expressions can be implemented with",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "NAND gates only",
+        "b": "choice 2 Combinations of And gates, OR gates, and inverters",
+        "c": "NOR gates only",
+        "d": "Any of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A full - adder is characterized by",
+      "answers": {
+        "a": "Two inputs and two outputs",
+        "b": "Two inputs and three outputs",
+        "c": "Three inputs and two outputs",
+        "d": "none of these"
       },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A 4 bit adder can add",
+      "answers": {
+        "a": "Two 4 bit binary numbers",
+        "b": "Two 2 bit binary numbers",
+        "c": "4 bits at a time",
+        "d": "4 bits in sequence"
+      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "A half adder is characterised by",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Three inputs and two outputs",
+        "b": "Two inputs and two outputs",
+        "c": "Two inputs and one outputs",
+        "d": "All of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]

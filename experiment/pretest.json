@@ -2,37 +2,63 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The OR operation can be produced with",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Two nor gates",
+        "b": "Three nand gates",
+        "c": "Both the above",
+        "d": "None of above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The AND operation can be produced with",
+      "answers": {
+        "a": "One NOR gate",
+        "b": "Three NAND gates",
+        "c": "Two NAND gates",
+        "d": "None of these"
       },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The 2's complement of 11001000 is",
+      "answers": {
+        "a": "00110001",
+        "b": "00110111",
+        "c": "00111001",
+        "d": "00111000"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The 1's complement of 11001011 is",
+      "answers": {
+        "a": "00110100",
+        "b": "00110001",
+        "c": "01001000",
+        "d": "00110011"
+      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which of the following gate is not universal gate",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "NOR",
+        "b": "OR",
+        "c": "NAND",
+        "d": "NONE OF THESE"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
