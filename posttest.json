@@ -1,0 +1,53 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "All Boolean expressions can be implemented with",
+      "answers": {
+        "a": "NAND gates only",
+        "b": "choice 2 Combinations of And gates, OR gates, and inverters",
+        "c": "NOR gates only",
+        "d": "Any of these"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A full - adder is characterized by",
+      "answers": {
+        "a": "Two inputs and two outputs",
+        "b": "Two inputs and three outputs",
+        "c": "Three inputs and two outputs",
+        "d": "none of these"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A 4 bit adder can add",
+      "answers": {
+        "a": "Two 4 bit binary numbers",
+        "b": "Two 2 bit binary numbers",
+        "c": "4 bits at a time",
+        "d": "4 bits in sequence"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A half adder is characterised by",
+      "answers": {
+        "a": "Three inputs and two outputs",
+        "b": "Two inputs and two outputs",
+        "c": "Two inputs and one outputs",
+        "d": "All of the above"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The OR operation can be produced with",
+      "answers": {
+        "a": "Two nor gates",
+        "b": "Three nand gates",
+        "c": "Both the above",
+        "d": "None of above"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The AND operation can be produced with",
+      "answers": {
+        "a": "One NOR gate",
+        "b": "Three NAND gates",
+        "c": "Two NAND gates",
+        "d": "None of these"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The 2's complement of 11001000 is",
+      "answers": {
+        "a": "00110001",
+        "b": "00110111",
+        "c": "00111001",
+        "d": "00111000"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The 1's complement of 11001011 is",
+      "answers": {
+        "a": "00110100",
+        "b": "00110001",
+        "c": "01001000",
+        "d": "00110011"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following gate is not universal gate",
+      "answers": {
+        "a": "NOR",
+        "b": "OR",
+        "c": "NAND",
+        "d": "NONE OF THESE"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
